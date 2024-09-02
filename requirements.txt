@@ -6,6 +6,6 @@ pip
 uv
 sqlalchemy
 PIL
-mysql connector
+mysql_connector
 boto3
 tkinter

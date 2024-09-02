@@ -5,4 +5,7 @@ numba
 pip
 uv
 sqlalchemy
-
+PIL
+mysql connector
+boto3
+tkinter

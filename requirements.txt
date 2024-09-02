@@ -7,5 +7,5 @@ uv
 sqlalchemy
 mysql_connector
 boto3
-google.api_core.client_options
+googleapiclient
 sqlite3

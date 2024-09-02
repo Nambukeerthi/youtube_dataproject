@@ -397,9 +397,9 @@ with st.sidebar:
 #homepage
 def pagehome():
        
-           st.subheader(" Over View of Project ")
+           st.write(" Over View of Project ")
            img = Image.open("youtube_project.jpeg")
-           st.image( img, caption= "Method of process",width=600,channels="RGB"
+           st.image( img, caption= width=600,channels="RGB"
                    )
            st.subheader("Instuction Guide: ")  
             

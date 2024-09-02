@@ -1,7 +1,5 @@
-import tkinter
-from tkinter import YES
-from PIL import Image
 import streamlit as st
+from PIL import Image
 from streamlit_option_menu import option_menu
 from googleapiclient.discovery import build
 import mysql.connector

@@ -9,3 +9,5 @@ PIL
 mysql_connector
 boto3
 tkinter
+googleapiclient_discovery 
+sqlite3

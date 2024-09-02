@@ -1,8 +1,7 @@
 import streamlit as st
 from PIL import Image
 from streamlit_option_menu import option_menu
-from googleapiclient import discovery
-from discovery import build
+from googleapiclient.discovery import build  
 import mysql.connector
 from mysql.connector import Error
 import boto3

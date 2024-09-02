@@ -5,3 +5,4 @@ numba
 pip
 uv
 sqlalchemy
+tkinter

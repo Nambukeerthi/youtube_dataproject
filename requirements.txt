@@ -7,4 +7,5 @@ uv
 sqlalchemy
 mysql_connector
 boto3
-apiclient_discovery
+apiclient
+googleapiclient.discovery

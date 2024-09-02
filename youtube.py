@@ -400,11 +400,11 @@ def pagehome():
           st.subheader("",)
           col3,col4 = st.columns(2)
           with col3:
-          img = Image.open("youtube_project.jpeg")
-          st.image( img, caption= "Method of process",width=600,channels="RGB"
-                   )
+              img = Image.open("youtube_project.jpeg")
+              st.image( img, caption= "Method of process",width=600,channels="RGB"
+                       )
           with col4:
-          st.write("Instuction Guide: ")    
+              st.write("Instuction Guide: ")    
     
 #upload page       
 def pageupload():

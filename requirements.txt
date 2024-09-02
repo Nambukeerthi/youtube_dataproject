@@ -5,7 +5,6 @@ numba
 pip
 uv
 sqlalchemy
-PIL
 mysql_connector
 boto3
 tkinter

@@ -401,7 +401,7 @@ def pagehome():
            img = Image.open("youtube_project.jpeg")
            st.image( img, width=600,channels="RGB"
                    )
-           st.subheader("Instuction Guide: ")  
+           st.subheader("Instruction Guide: ")  
             
     
 #upload page       

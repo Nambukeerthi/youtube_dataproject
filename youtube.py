@@ -49,11 +49,11 @@ def create_server_connection():
     connection = None
     try:
         connection = mysql.connector.connect(
-            host = "localhost" , #"youtubedb.c96m2ysgag7t.eu-north-1.rds.amazonaws.com"
-            database = "practice" , # "youtubedb"
-            user = "root" , #"admin"
-            password = "root" , # "nambukeerthi"
-            port = "3306"
+            host = "db4free.net" , #"youtubedb.c96m2ysgag7t.eu-north-1.rds.amazonaws.com"
+            database = "yotubedb_1" , # "youtubedb"
+            user = "admin_nambu_1" , #"admin"
+            password = "root_123" , # "nambukeerthi"
+            # port = "3306"
         
         )
     except Error as err:

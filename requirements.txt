@@ -8,4 +8,3 @@ sqlalchemy
 mysql_connector
 boto3
 apiclient
-sqlite

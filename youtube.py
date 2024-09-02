@@ -399,7 +399,7 @@ def pagehome():
        
            st.write(" Over View of Project ")
            img = Image.open("youtube_project.jpeg")
-           st.image( img, caption= width=600,channels="RGB"
+           st.image( img, width=600,channels="RGB"
                    )
            st.subheader("Instuction Guide: ")  
             

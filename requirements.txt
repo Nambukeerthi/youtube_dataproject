@@ -8,4 +8,4 @@ sqlalchemy
 mysql_connector
 boto3
 apiclient
-discovery_uri
+os

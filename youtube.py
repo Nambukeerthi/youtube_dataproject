@@ -1,4 +1,4 @@
-from sqlite3 import Connection
+import tkinter
 from tkinter import YES
 from PIL import Image
 import streamlit as st
@@ -9,7 +9,7 @@ from mysql.connector import Error
 import boto3
 import pandas as pd
 from sqlalchemy import create_engine
-import tkinter
+from sqlite3 import Connection
 
 
 

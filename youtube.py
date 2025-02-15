@@ -402,7 +402,7 @@ def pagehome():
            st.image( img, width=600,channels="RGB"
                    )
             
-           issue_text ='''<h2 style='font_size: 32px; text-align: center; color: red;' > Because of aws rds billing issue coudn't work online  </h2'''
+           issue_text ='''<h2 style='font_size: 32px; text-align: center; color: red;' > "Due to an AWS RDS billing issue, this project couldn't be deployed online." </h2'''
            st.markdown(issue_text, unsafe_allow_html=True) 
     
 #upload page       

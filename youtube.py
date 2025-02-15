@@ -401,7 +401,7 @@ def pagehome():
            img = Image.open("youtube_project.jpeg")
            st.image( img, width=600,channels="RGB"
                    )
-           st.subheader("Instruction Guide: ")  
+            
             
     
 #upload page       
@@ -424,8 +424,8 @@ def pageupload():
                 upload_func(input_channel_id)
                 st.write("UPLOAD SUCCESSFULLY")
        # AWS RDS BILLING ISSUE
-       title1_text ='''<h2 style='font_size: 32px; text-align: center; color: red;' > Because of aws rds billing issue coudn't work online  </h2'''
-       st.markdown(title1_text, unsafe_allow_html=True)
+    title1_text ='''<h2 style='font_size: 32px; text-align: center; color: red;' > Because of aws rds billing issue coudn't work online  </h2'''
+    st.markdown(title1_text, unsafe_allow_html=True)
        
 #task page            
 def pagetasks():

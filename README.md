@@ -12,11 +12,12 @@
 
 <p align="center">
   <a href="#Introduction">Key Features</a> •
-  <a href="#Technologies Applied">Download</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#Technologies Applied">Download</a> •  
 </p>
 
 Video Link: [Linked-IN Video](https://www.linkedin.com/posts/keerthi-r-9b8839283_project-name-youtube-data-harvesting-and-activity-7296598343412068352-lwgY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUARVwBltI0ri4ApeK7YzcbHxGViaHfWEM)
+
+Portfolio: [Nambu Keerthi]((https://portfolio-b5zieg8xn5nhwau5b4bhp8.streamlit.app/))
 
 ## Introduction 
 The purpose of this project is to create an intuitive Streamlit app that pulls data about a YouTube channel from the Google API, stores it in a MongoDB database, moves it to a SQL data warehouse, and then lets users perform searches for channel details and join tables to view the data.
@@ -75,10 +76,7 @@ streamlit run main.py
 4. through the click the "Drob DB" button the created database and details will droped. 
 
 
-## Credits
 
-Nambu keerthi R
-linkedIN [@nambukeerthi](https://www.linkedin.com/in/keerthi-r-9b8839283/) &nbsp;&middot;&nbsp;
 
 
 

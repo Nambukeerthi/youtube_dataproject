@@ -11,8 +11,8 @@
 
 
 <p align="center">
-  <a href="#Introduction">Key Features</a> •
-  <a href="#Technologies Applied">Download</a> •  
+  <a href="#Introduction"></a>
+  <a href="#Technologies Applied"></a>  
 </p>
 
 Video Link: [Linked-IN Video](https://www.linkedin.com/posts/keerthi-r-9b8839283_project-name-youtube-data-harvesting-and-activity-7296598343412068352-lwgY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUARVwBltI0ri4ApeK7YzcbHxGViaHfWEM)

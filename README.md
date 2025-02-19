@@ -25,9 +25,9 @@ The purpose of this project is to create an intuitive Streamlit app that pulls d
 
 
 ## Technologies Applied
-* virtual environment (.venv)
-* python
-* streamlit 
+* Virtual environment (.venv)
+* Python
+* Streamlit 
 * Youtube Api 
 * AWS RDS Database
 * MySQL

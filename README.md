@@ -58,7 +58,7 @@ cursor1 = mydb.cursor()
 
 4. To run the application
 ```
-streamlit run main.py
+streamlit run youtube.py
 ```
 
    

@@ -22,7 +22,7 @@ Portfolio: [Nambu Keerthi](https://portfolio-b5zieg8xn5nhwau5b4bhp8.streamlit.ap
 ## Introduction 
 The purpose of this project is to create an intuitive Streamlit app that pulls data about a YouTube channel from the Google API, stores it in a MongoDB database, moves it to a SQL data warehouse, and then lets users perform searches for channel details and join tables to view the data.
 
-Domain: *Social Media*
+**Domain** : *Social Media*
 
 ## Technologies Applied
 * Virtual environment (.venv)
